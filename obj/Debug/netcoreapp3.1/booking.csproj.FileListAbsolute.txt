@@ -1,0 +1,12 @@
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.csprojAssemblyReference.cache
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.AssemblyInfoInputs.cache
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.AssemblyInfo.cs
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.csproj.CoreCompileInputs.cache
+/Users/jim.matheson/Projects/Personal Projects/booking/bin/Debug/netcoreapp3.1/booking.deps.json
+/Users/jim.matheson/Projects/Personal Projects/booking/bin/Debug/netcoreapp3.1/booking.runtimeconfig.json
+/Users/jim.matheson/Projects/Personal Projects/booking/bin/Debug/netcoreapp3.1/booking.runtimeconfig.dev.json
+/Users/jim.matheson/Projects/Personal Projects/booking/bin/Debug/netcoreapp3.1/booking.dll
+/Users/jim.matheson/Projects/Personal Projects/booking/bin/Debug/netcoreapp3.1/booking.pdb
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.dll
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.pdb
+/Users/jim.matheson/Projects/Personal Projects/booking/obj/Debug/netcoreapp3.1/booking.genruntimeconfig.cache
