@@ -9,8 +9,8 @@ namespace booking
         {
             HotelJim hotel = new HotelJim();
             DateTime today = DateTime.Today;
-            Console.WriteLine(today); // outputs true
-            Console.WriteLine(hotel.IsRoomAvailable(101, today));
+            Console.WriteLine(today); // Output today's date
+            Console.WriteLine(hotel.IsRoomAvailable(101, today)); // return true
 
             hotel.AddBooking("Matheson", 101, today);
 
